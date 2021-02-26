@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.5",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
@@ -18,5 +19,13 @@
     "pg": "^8.5.1",
     "rowdy-logger": "^1.0.2",
     "sequelize": "^6.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisaJohnston/intro-to-authentication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LouisaJohnston/intro-to-authentication/issues"
+  },
+  "homepage": "https://github.com/LouisaJohnston/intro-to-authentication#readme"
 }

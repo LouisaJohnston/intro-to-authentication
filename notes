@@ -1,0 +1,5 @@
+what steps a user is allowed to take is authorization
+
+checking if a user is who they say they are is authentication
+
+npm i cookie-parser
